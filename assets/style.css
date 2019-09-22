@@ -2,10 +2,16 @@ body{
     background-image:url("../assets/images/asanoha-400px.png");
 }
 
+
+.nav-link {
+    color:#4aaaa5;
+}
+
+
 h2 {
     color: #4aaaa5;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
+     font-family: Georgia, 'Times New Roman', Times, serif;
+  }
 
 footer {
     padding: 20px;
@@ -69,8 +75,14 @@ footer {
     bottom: 85px;
     padding-left: 0px;
     padding-right: 0px;
-    margin-left: 45px;
+    margin-left: 48px;
     margin-right: 15px;
-
+    
 
 }
+
+.Rock-Paper-Scissors h3{
+font-size: 20pt;
+
+}
+
